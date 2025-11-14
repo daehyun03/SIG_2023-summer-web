@@ -30,10 +30,11 @@
 ## 프로젝트 구조
 ![오늘의 뉴스 프로젝트 구조](https://github.com/user-attachments/assets/7f06d27b-d37f-4ad7-b09d-2eb2cecb2244)
 
-## 🛠 기술스택
+## 기술스택
 | 구분 | 내용 |
 | :-- | :-- |
 | **Frontend**   | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white)|
 | **Chat**       | ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)|
 | **인증**       | ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)|
 | **상태관리**   | ![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=zod&logoColor=white)|
+
